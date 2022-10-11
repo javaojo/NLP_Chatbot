@@ -1,0 +1,4 @@
+*.log
+*.pyc
+.idea*
+csv_test.py
